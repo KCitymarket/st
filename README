@@ -1,3 +1,6 @@
+<h1>My st configs</h1>
+
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
@@ -6,6 +9,7 @@ st is a simple terminal emulator for X which sucks less.
 Requirements
 ------------
 In order to build st you need the Xlib header files.
+for my configs you need liberation mono font and xcompmgr or some composition manager i think lol
 
 
 Installation
